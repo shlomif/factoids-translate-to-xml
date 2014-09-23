@@ -212,20 +212,24 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris commits with a roundhouse kick into the SVN server’s head. (<b>daxim</b>)
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris <b>is</b> the test suite. (<b>FurnaceBoy</b>)
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris commits with a roundhouse kick into the SVN server’s head. (<b>daxim</b>)
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris <b>is</b> the test suite. (<b>FurnaceBoy</b>)
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -273,13 +277,15 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris doesn’t commit changes, the changes commit for him. (<b>araujo</b>)
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris doesn’t commit changes, the changes commit for him. (<b>araujo</b>)
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -414,14 +420,16 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Wikipedia deletionists don’t delete lame Wikipedia articles. Chuck Norris
-                    deletes lame Wikipedia articles.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Wikipedia deletionists don’t delete lame Wikipedia articles. Chuck Norris
+                        deletes lame Wikipedia articles.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -627,13 +635,15 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris can read Perl code that was RSA encrypted.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris can read Perl code that was RSA encrypted.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -856,22 +866,26 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    A wood chuck can’t chuck wood. Chuck Norris can chuck wood chucks.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    If Chuck Norris asks you “What's up?” and you answer it literally, then he
-                    will club you senseless with all the volumes of the Oxford English Dictionary,
-                    and all the servers hosting en.wiktionary.org, to teach you a lesson.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        A wood chuck can’t chuck wood. Chuck Norris can chuck wood chucks.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        If Chuck Norris asks you “What's up?” and you answer it literally, then he
+                        will club you senseless with all the volumes of the Oxford English Dictionary,
+                        and all the servers hosting en.wiktionary.org, to teach you a lesson.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -925,13 +939,15 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    An apple a day will keep Chuck Norris away. But not for long.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        An apple a day will keep Chuck Norris away. But not for long.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -950,14 +966,16 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris had a problem so he decided to use regular expressions. Now,
-                    all the World’s problems are solved.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris had a problem so he decided to use regular expressions. Now,
+                        all the World’s problems are solved.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -1320,23 +1338,27 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris can become root on OpenBSD. By using nothing but /bin/echo.
-                    (<b>ZadYree</b> and <b>Shlomi Fish</b>).
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris is the reason why OpenBSD is called OpenBSD. They wanted to call
-                    it LockedDownBSD but couldn't find a way to keep Chuck Norris out! (<b>Andrew
-                        Brehm</b>)
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris can become root on OpenBSD. By using nothing but /bin/echo.
+                        (<b>ZadYree</b> and <b>Shlomi Fish</b>).
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris is the reason why OpenBSD is called OpenBSD. They wanted to call
+                        it LockedDownBSD but couldn't find a way to keep Chuck Norris out! (<b>Andrew
+                            Brehm</b>)
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -1421,20 +1443,24 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris can solve MS Freecell deal No. 11,982. With Zero Freecells.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris once solved 100 million deals of Freecell in a minute. By hand.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris can solve MS Freecell deal No. 11,982. With Zero Freecells.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris once solved 100 million deals of Freecell in a minute. By hand.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -1452,20 +1478,24 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris caught the early bird before she caught the worm.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris can make one baby in a month using nine mothers.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris caught the early bird before she caught the worm.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris can make one baby in a month using nine mothers.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -1482,53 +1512,63 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    God ties Chuck Norris’ camel. (Inspired by a conversation with <b>ZadYree</b>).
-                </p>
-                <ul>
-                    <li>
-                        <p>
-                            Here’s the <a href="http://en.wikipedia.org/w/index.php?title=God_helps_those_who_help_themselves&amp;oldid=573760763#Other_historic_uses">context</a> for this.
-                        </p>
-                    </li>
-                </ul>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris can convince everyone that the colour of the bikeshed should be
-                    his favourite colour.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris finished building the bike-shed by the time people stopped
-                    arguing what its colour should be.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris’ E-mails are signed with “Sent using Chuck Norris’ brain (which
-                    he can also kill you using it).”.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    When Chuck Norris receives an E-mail signed “Sent from my iPhone”, he makes
-                    sure that iPhone won’t be able to send any more E-mails — to Norris or
-                    otherwise.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        God ties Chuck Norris’ camel. (Inspired by a conversation with <b>ZadYree</b>).
+                    </p>
+                    <ul>
+                        <li>
+                            <p>
+                                Here’s the <a href="http://en.wikipedia.org/w/index.php?title=God_helps_those_who_help_themselves&amp;oldid=573760763#Other_historic_uses">context</a> for this.
+                            </p>
+                        </li>
+                    </ul>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris can convince everyone that the colour of the bikeshed should be
+                        his favourite colour.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris finished building the bike-shed by the time people stopped
+                        arguing what its colour should be.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris’ E-mails are signed with “Sent using Chuck Norris’ brain (which
+                        he can also kill you using it).”.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        When Chuck Norris receives an E-mail signed “Sent from my iPhone”, he makes
+                        sure that iPhone won’t be able to send any more E-mails — to Norris or
+                        otherwise.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -1546,14 +1586,16 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    When Chuck Norris disses your product, it’s not good publicity, even though
-                    you can bet he’ll get the name right.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        When Chuck Norris disses your product, it’s not good publicity, even though
+                        you can bet he’ll get the name right.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -1603,108 +1645,134 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris used these facts to his advantage, making a huge comeback. He
-                    didn’t get mad — he got even!
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris has 99 problems including a bitch.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    If Chuck Norris travelled to the market with his son and his donkey, he would
-                    have clubbed the critics to death. With the donkey.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Roses are red, violets are blue, something something Chuck Norris,
-                    now they are red too. (<b>Rounin</b>)
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris can construct any logical expression using only AND gates.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris can neither confirm nor deny that he was the Alpha Male. But
-                    he’ll kill you if you say he wasn't.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris does not boil up water. If he wants, his ice cubes boil water,
-                    instead of making it cooler.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris wrote the entire tvtropes.org wiki, so he can sleep with your
-                    significant other while you are distracted reading it.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck norris can edit Wikipedia super protected pages. Anonymously.
-                    (<b>ponie</b>)
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Reality to be commanded must be obeyed. Chuck Norris disobeyed reality, and now
-                    he commands it.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    “Talk Like a Pirate Day” is the only day of the year when Chuck Norris only
-                    talks like a pirate, and does not actually act like one.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    On Yom Kippur (= the Jewish Day of Atonement), Chuck Norris forgives God for
-                    his sins.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris doesn't celebrate holidays -- holidays celebrate Chuck Norris.
-                    (<a href="http://sevvie.github.io/"><b>sevvie</b></a>)
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris used these facts to his advantage, making a huge comeback. He
+                        didn’t get mad — he got even!
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris has 99 problems including a bitch.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        If Chuck Norris travelled to the market with his son and his donkey, he would
+                        have clubbed the critics to death. With the donkey.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Roses are red, violets are blue, something something Chuck Norris,
+                        now they are red too. (<b>Rounin</b>)
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris can construct any logical expression using only AND gates.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris can neither confirm nor deny that he was the Alpha Male. But
+                        he’ll kill you if you say he wasn't.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris does not boil up water. If he wants, his ice cubes boil water,
+                        instead of making it cooler.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris wrote the entire tvtropes.org wiki, so he can sleep with your
+                        significant other while you are distracted reading it.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck norris can edit Wikipedia super protected pages. Anonymously.
+                        (<b>ponie</b>)
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Reality to be commanded must be obeyed. Chuck Norris disobeyed reality, and now
+                        he commands it.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        “Talk Like a Pirate Day” is the only day of the year when Chuck Norris only
+                        talks like a pirate, and does not actually act like one.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        On Yom Kippur (= the Jewish Day of Atonement), Chuck Norris forgives God for
+                        his sins.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris doesn't celebrate holidays -- holidays celebrate Chuck Norris.
+                        (<a href="http://sevvie.github.io/"><b>sevvie</b></a>)
+                    </p>
+                </li>
+            </l>
+        </f>
     </list>
     <list xml:id="clarissa_facts" title="Clarissa Darling Facts">
         <f>
@@ -1763,82 +1831,100 @@
         </f>
     </list>
     <list xml:id="emma_watson_facts" title="Emma Watson Facts">
-        <en>
-            <li>
-                <p>
-                    Playing Hermione in the Harry Potter films was a dirty job, but Emma Watson
-                    got a shitload of money and worldwide recognition for doing it.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Emma Watson is not acting in films for money. She is acting in films for
-                    a shitload of money.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    If the miller had travelled to the market with Emma, they would have each rode
-                    their own donkey. Problem solved.
-                </p>
-                <p>
-                    ( See <a href="http://en.wikipedia.org/wiki/The_miller,_his_son_and_the_donkey">the Wikipedia page</a> about the fable for the context. )
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Emma Watson is not perfect, but she's really good at hiding her imperfections.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Emma Watson may not look too menacing with a wand in her hand. Until she uses
-                    it with great accuracy to poke both your eyes out.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    If the mountain does not come to Emma Watson, she won’t bother visiting it.
-                    It would be the mountain’s loss, really.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Emma Watson does not have 10 years of experience in developing Enterprise
-                    Java software. However, she has over 10 years of experience in getting shit
-                    done - well, on schedule, and at a reasonable cost.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p><a href="http://mlp.wikia.com/wiki/Fluttershy">Fluttershy</a> immediately
-                    stops crying when Emma Watson comes to visit her.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Emma Watson and you would make the best children. She'll provide the
-                    talent, good looks, and brains, while you provide the sperm. (Via
-                    <a href="http://twitter.com/connorpollock3/status/496358902540169216">Connor
-                        Pollock</a>.)
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Playing Hermione in the Harry Potter films was a dirty job, but Emma Watson
+                        got a shitload of money and worldwide recognition for doing it.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Emma Watson is not acting in films for money. She is acting in films for
+                        a shitload of money.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        If the miller had travelled to the market with Emma, they would have each rode
+                        their own donkey. Problem solved.
+                    </p>
+                    <p>
+                        ( See <a href="http://en.wikipedia.org/wiki/The_miller,_his_son_and_the_donkey">the Wikipedia page</a> about the fable for the context. )
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Emma Watson is not perfect, but she's really good at hiding her imperfections.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Emma Watson may not look too menacing with a wand in her hand. Until she uses
+                        it with great accuracy to poke both your eyes out.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        If the mountain does not come to Emma Watson, she won’t bother visiting it.
+                        It would be the mountain’s loss, really.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Emma Watson does not have 10 years of experience in developing Enterprise
+                        Java software. However, she has over 10 years of experience in getting shit
+                        done - well, on schedule, and at a reasonable cost.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p><a href="http://mlp.wikia.com/wiki/Fluttershy">Fluttershy</a> immediately
+                        stops crying when Emma Watson comes to visit her.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Emma Watson and you would make the best children. She'll provide the
+                        talent, good looks, and brains, while you provide the sperm. (Via
+                        <a href="http://twitter.com/connorpollock3/status/496358902540169216">Connor
+                            Pollock</a>.)
+                    </p>
+                </li>
+            </l>
+        </f>
     </list>
     <list xml:id="in_soviet_russia_facts" title="“In Soviet Russia” Aphorisms">
         <f>
@@ -1954,28 +2040,34 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    In Soviet Russia, left keeps you. Always. (<b>Volis</b>)
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    In Soviet Russia, every time you kill a kitten, god masturbates.
-                    (<a href="http://linux.slashdot.org/comments.pl?sid=195378&amp;cid=16009070">GyroTech</a>)
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    In Soviet Russia, garbage collects you. (<b>mucker</b>)
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        In Soviet Russia, left keeps you. Always. (<b>Volis</b>)
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        In Soviet Russia, every time you kill a kitten, god masturbates.
+                        (<a href="http://linux.slashdot.org/comments.pl?sid=195378&amp;cid=16009070">GyroTech</a>)
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        In Soviet Russia, garbage collects you. (<b>mucker</b>)
+                    </p>
+                </li>
+            </l>
+        </f>
     </list>
     <list xml:id="knuth_is_not_god_facts" title="Why Knuth is Not God">
         <f>
@@ -2084,13 +2176,15 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Larry Wall gets the colon.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Larry Wall gets the colon.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -2255,210 +2349,260 @@
         </f>
     </list>
     <list xml:id="summer_glau_facts" title="Summer Glau Facts">
-        <en>
-            <li>
-                <p>
-                    Chuck Norris can only convince you that you're deceased. Summer Glau can
-                    also convince you that you're alive, which is much harder.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Summer Glau can hold and use a gun in each hand. There's no way that Jennifer
-                    Lawrence can hold and use a bow in each hand.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Summer Glau does not have to hurt you if she doesn't want to . Chuck Norris
-                    kills everyone in sight.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Summer Glau has better ways to make a difference than by being violent.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    It takes Summer Glau exactly a minute to write a rebuttal like in
-                    <a href="http://xkcd.com/406/">xkcd: “Venting”</a>, and she would sign it
-                    as Chuck Norris.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris ability to destroy is only matched (and exceeded) by Summer Glau’s
-                    ability to undo his destruction.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Whatever Chuck Norris taketh, Summer Glau giveth back.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Summer Glau can lead a horse to water, and then it will drink out of its
-                    own volition.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris was the 1,000,000,000th viewer of the
-                    <a href="http://en.wikipedia.org/wiki/Gangnam_Style">Gangnam Style</a> video
-                    on YouTube. Summer Glau was the preceding 100 million views.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Summer Glau can restore the people that Chuck killed, back to life.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Summer Glau can give you the Hug of Death, but you’ll die happy.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    When it comes to terminators, you have a better shot at Arnold Schwarzenegger
-                    than at Summer Glau. (By inspiration from the <a href="https://www.youtube.com/watch?v=0SJskWeMG_U">Big Bang Theory episode</a> with Glau as herself.)
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris has 99 problems including a bitch. Summer Glau has exactly 98
-                    problems.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris can construct any logical expression using only AND gates.
-                    Summer Glau can replace Chuck with a very small AND gate.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Who would win in a fight? Charlemagne, Charles Dickens, Charles Darwin or
-                    Carlos "Chuck" Norris? If Summer Glau was the arbiter, she would just kill all
-                    of them and declare herself the winner.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris round house kicks doors open instead of using their keys.
-                    Summer Glau makes sure doors are open using her mind.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris reinvented a better wheel. Summer Glau reinvented a better Chuck
-                    Norris.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Summer Glau just works here. She teaches Chuck Norris how to perform
-                    his chores in the best possible manner.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Summer Glau has a magic mirror in her room which she asks every day "Mirror,
-                    mirror on the wall, who's the awesomest of them all?" and if the mirror
-                    tells her something else, she destroys it for daring to lie to her.
-                </p>
-                <p>
-                    She’s still using the first mirror.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris shot the sheriff and his deputy. Summer Glau became the new
-                    sheriff and shot Chuck Norris.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Summer Glau can kill you with her mind. But she’ll never need to or will.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    Chuck Norris does expect the Spanish Inquisition. But he doesn’t expect
-                    Summer Glau.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    When wishing to comment on a WordPress blog, Summer Glau finds a new zero-day
-                    WordPress SQL injection exploit, and uses it to insert the comment into the
-                    database directly, because even she cannot rely on its comment box to work.
-                </p>
-            </li>
-        </en>
-        <en>
-            <li>
-                <p>
-                    On “Talk Like a Pirate Day”, ye be sailin’ across the great seas to seek
-                    the shore of Summer Glows and Summer Glaus. Arrrr!
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris can only convince you that you're deceased. Summer Glau can
+                        also convince you that you're alive, which is much harder.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Summer Glau can hold and use a gun in each hand. There's no way that Jennifer
+                        Lawrence can hold and use a bow in each hand.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Summer Glau does not have to hurt you if she doesn't want to . Chuck Norris
+                        kills everyone in sight.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Summer Glau has better ways to make a difference than by being violent.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        It takes Summer Glau exactly a minute to write a rebuttal like in
+                        <a href="http://xkcd.com/406/">xkcd: “Venting”</a>, and she would sign it
+                        as Chuck Norris.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris ability to destroy is only matched (and exceeded) by Summer Glau’s
+                        ability to undo his destruction.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Whatever Chuck Norris taketh, Summer Glau giveth back.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Summer Glau can lead a horse to water, and then it will drink out of its
+                        own volition.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris was the 1,000,000,000th viewer of the
+                        <a href="http://en.wikipedia.org/wiki/Gangnam_Style">Gangnam Style</a> video
+                        on YouTube. Summer Glau was the preceding 100 million views.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Summer Glau can restore the people that Chuck killed, back to life.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Summer Glau can give you the Hug of Death, but you’ll die happy.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        When it comes to terminators, you have a better shot at Arnold Schwarzenegger
+                        than at Summer Glau. (By inspiration from the <a href="https://www.youtube.com/watch?v=0SJskWeMG_U">Big Bang Theory episode</a> with Glau as herself.)
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris has 99 problems including a bitch. Summer Glau has exactly 98
+                        problems.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris can construct any logical expression using only AND gates.
+                        Summer Glau can replace Chuck with a very small AND gate.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Who would win in a fight? Charlemagne, Charles Dickens, Charles Darwin or
+                        Carlos "Chuck" Norris? If Summer Glau was the arbiter, she would just kill all
+                        of them and declare herself the winner.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris round house kicks doors open instead of using their keys.
+                        Summer Glau makes sure doors are open using her mind.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris reinvented a better wheel. Summer Glau reinvented a better Chuck
+                        Norris.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Summer Glau just works here. She teaches Chuck Norris how to perform
+                        his chores in the best possible manner.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Summer Glau has a magic mirror in her room which she asks every day "Mirror,
+                        mirror on the wall, who's the awesomest of them all?" and if the mirror
+                        tells her something else, she destroys it for daring to lie to her.
+                    </p>
+                    <p>
+                        She’s still using the first mirror.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris shot the sheriff and his deputy. Summer Glau became the new
+                        sheriff and shot Chuck Norris.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Summer Glau can kill you with her mind. But she’ll never need to or will.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Chuck Norris does expect the Spanish Inquisition. But he doesn’t expect
+                        Summer Glau.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        When wishing to comment on a WordPress blog, Summer Glau finds a new zero-day
+                        WordPress SQL injection exploit, and uses it to insert the comment into the
+                        database directly, because even she cannot rely on its comment box to work.
+                    </p>
+                </li>
+            </l>
+        </f>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        On “Talk Like a Pirate Day”, ye be sailin’ across the great seas to seek
+                        the shore of Summer Glows and Summer Glaus. Arrrr!
+                    </p>
+                </li>
+            </l>
+        </f>
     </list>
     <list xml:id="xslt_facts" title="XSLT Facts">
-        <en>
-            <li>
-                <p>
-                    XSLT is the work of Satan.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        XSLT is the work of Satan.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -2507,13 +2651,15 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    The X in XSLT stands for eXtermination.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        The X in XSLT stands for eXtermination.
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -2530,13 +2676,15 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    The only things worse than XSLT are Excel and Sugar-Less Tea (XSLT).
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        The only things worse than XSLT are Excel and Sugar-Less Tea (XSLT).
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -2570,13 +2718,15 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    Even APL won’t make friends with XSLT. (<a href="http://blog.zuu.dk/"><b>Zuu</b></a>)
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        Even APL won’t make friends with XSLT. (<a href="http://blog.zuu.dk/"><b>Zuu</b></a>)
+                    </p>
+                </li>
+            </l>
+        </f>
         <f>
             <l xml:lang="en-US">
                 <li>
@@ -2751,13 +2901,15 @@
                 </li>
             </l>
         </f>
-        <en>
-            <li>
-                <p>
-                    XSLT isn't like violence. XSLT is violence - there is no such thing as
-                    using it too little.
-                </p>
-            </li>
-        </en>
+        <f>
+            <l xml:lang="en-US">
+                <li>
+                    <p>
+                        XSLT isn't like violence. XSLT is violence - there is no such thing as
+                        using it too little.
+                    </p>
+                </li>
+            </l>
+        </f>
     </list>
 </myxml>
