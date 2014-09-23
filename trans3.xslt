@@ -34,6 +34,7 @@ namespace-->
         <xsl:apply-templates />
     </facts>
 </xsl:template>
+
 <xsl:template match="l">
     <l>
         <xsl:copy-of select="@*"/>
@@ -41,6 +42,18 @@ namespace-->
             <xsl:apply-templates select="*" />
         </body>
     </l>
+</xsl:template>
+
+<xsl:template match="tt">
+    <xsl:apply-templates select="*" />
+</xsl:template>
+
+<xsl:template match="lip">
+    <li>
+        <p>
+            <xsl:apply-templates select="*" />
+        </p>
+    </li>
 </xsl:template>
 
 </xsl:stylesheet>

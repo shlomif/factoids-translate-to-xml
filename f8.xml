@@ -564,9 +564,12 @@
                         commit. And then he waits for the commit to finish.
                     </p>
           <ul>
-            <lip><a href="http://mail.perl.org.il/pipermail/perl/2010-April/010928.html">Here’s
-                                the context for this</a>.
-                        </lip>
+            <li>
+              <p>
+                <a href="http://mail.perl.org.il/pipermail/perl/2010-April/010928.html">Here’s
+                                the context for this</a>
+              </p>
+            </li>
           </ul>
         </body>
       </l>
@@ -578,8 +581,11 @@
                         הוא מחכה לפעולה להסתיים.
                     </p>
           <ul>
-            <lip><a href="http://mail.perl.org.il/pipermail/perl/2010-April/010928.html">הנה ההקשר לכך</a>.
-                        </lip>
+            <li>
+              <p>
+                <a href="http://mail.perl.org.il/pipermail/perl/2010-April/010928.html">הנה ההקשר לכך</a>
+              </p>
+            </li>
           </ul>
         </body>
       </l>
@@ -746,8 +752,13 @@
                         Only perl and Chuck Norris can parse Perl.
                     </p>
           <ul>
-            <lip><tt>/usr/bin/perl</tt> consults Chuck Norris about how to parse Perl. (<a href="http://nadavvin.com/"><b>Nadav Vinik</b></a>).
-                        </lip>
+            <li>
+              <p>
+                <a href="http://nadavvin.com/">
+                  <b>Nadav Vinik</b>
+                </a>
+              </p>
+            </li>
           </ul>
         </body>
       </l>
@@ -757,10 +768,13 @@
                         רק פרל וצ'אק נוריס יכולים לנתח את פרל.
                     </p>
           <ul>
-            <lip>
-                            המפרש של פרל מתייעץ עם צ'אק נוריס על כיצד לפרש אותה.
-                            (<a href="http://nadavvin.com/"><b>נדב ויניק</b></a>).
-                        </lip>
+            <li>
+              <p>
+                <a href="http://nadavvin.com/">
+                  <b>נדב ויניק</b>
+                </a>
+              </p>
+            </li>
           </ul>
         </body>
       </l>
@@ -1422,12 +1436,12 @@
                         eye contact with Chuck.
                     </p>
           <ul>
-            <lip>
-                            If Chuck Norris had dropped his toasts, they would have fallen on the dry
-                            side, so they would have stayed on his good side. But Chuck Norris <b>never</b>
-                            drops toasts.
-                            (<b>ZadYree</b> and Shlomi Fish).
-                        </lip>
+            <li>
+              <p>
+                <b>never</b>
+                <b>ZadYree</b>
+              </p>
+            </li>
           </ul>
         </body>
       </l>
@@ -1437,11 +1451,11 @@
                         כשצ'אק נוריס מפיל חתול, החתול נופל על הגב כדי לא לאבד קשר עין עם צ'אק.
                     </p>
           <ul>
-            <lip>
-                            אילו צ'אק נוריס היה מפיל פרוסות צנים, הן היו נופלות על הצד הלא המרוח,
-                            כדי שלא להרגיז אותו. חבל שצ'אק נוריס לעולם אינו מפיל פרוסות צנים.
-                            (<b>ZadYree</b> ושלומי פיש.)
-                        </lip>
+            <li>
+              <p>
+                <b>ZadYree</b>
+              </p>
+            </li>
           </ul>
         </body>
       </l>
