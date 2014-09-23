@@ -9,5 +9,8 @@ f3.xml: f2.xml
 f6.xml: f5.xml trans2.xslt
 	xsltproc -o $@ trans2.xslt f5.xml
 
-f7.xml: f6.xml
+f7.xml: f6.xml trans3.xslt
+	xsltproc -o $@ trans3.xslt f6.xml
+
+f8.xml: f8.xml
 	xmllint --format $< > $@
