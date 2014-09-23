@@ -25,7 +25,7 @@ foreach my $n (@nodes)
     my @n_prevs;
 
     my $x = $n->previousSibling;
-    while ($x->localname ne 'en')
+    while (($x->localname // '') ne 'en')
     {
         push @n_prevs, $x;
     }
@@ -48,14 +48,21 @@ foreach my $n (@nodes)
     $elem->appendChild($l_he);
 
     my $parent = $n->parentNode;
-    foreach my $c (@n_prevs)
+    $parent->insertAfter($l_he, $elem);
+    foreach my $c (@n_prevs, $l_he)
     {
-        $parent->removeChild( $c );
+        $c->unbindNode();
+        # $parent->removeChild( $c );
     }
+    print "\n<<<<<<<<<<<<\n$parent\n>>>>>>>>>>>\n";
+=begin foo
+
     $parent->replaceChild(
         $elem,
         $l_he,
     );
+
+=cut
 
 }
 
